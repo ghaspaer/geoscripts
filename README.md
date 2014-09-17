@@ -1,6 +1,6 @@
 geoscripts
 ==========
 
-bash_completion.d
+bash_completion.d and fish.
 
 
